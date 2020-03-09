@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>CasePriority2</fullName>
+    <types>
+        <members>Case.Priority2__c</members>
+        <members>Custom_Task__c.Account__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Custom_Task__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>Custom_Task__c-Custom Task Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Custom_Task__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Admin</members>
+        <members>CCPL Profile</members>
+        <name>Profile</name>
+    </types>
+    <version>48.0</version>
+</Package>
